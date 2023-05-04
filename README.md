@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tbalbone31
-- 👀 I’m interested in data science, spatial analysis, machine learning and education
+- 👀 I’m interested in data science, spatial analysis and education
 - 🌱 I’m currently working at the Data Science Campus within ONS as a Lecturer
 - 💞️ I’m looking to enhance my own pedagogy and subject knowledge by undertaking training on Github and documenting my own learning experiences.
 - 📫 How to reach me: contact me through GitHub or at tbalbone@gmail.com or any social media feed linked on here.
